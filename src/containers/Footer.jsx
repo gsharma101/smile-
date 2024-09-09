@@ -1,5 +1,5 @@
 import footerlogo from "../assets/footerlogo.svg";
-import FooterList from "./footerlist";
+import FooterList from "../components/FooterList";
 export default function footer() {
   return (
     <footer className="text-white rounded-lg m-6">

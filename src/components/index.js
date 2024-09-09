@@ -1,13 +1,11 @@
 import NavBar from "./NavBar";
 import Actions from "./Actions"
-import Footer from "./Footer"
 import Header from "./Header"
 import Causes from "./Causes"
-import FooterList from "./footerlist";
+import FooterList from "./FooterList";
 
 export {
     NavBar,
-    Footer,
     Header,
     Causes,
     Actions,

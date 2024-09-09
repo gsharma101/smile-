@@ -1,4 +1,5 @@
-import { NavBar, Actions, Footer, Header, Causes } from "./components";
+import { NavBar, Actions, Header, Causes } from "./components";
+import { Footer } from "./containers";
 
 function App() {
   return (
