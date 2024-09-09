@@ -4,7 +4,7 @@
 
 :root {
   --primnary: #399866;
-  --secondary: #f8f6e4
+  --secondary: #f8f6e4;
 }
 
 * {
@@ -18,16 +18,20 @@ body {
   background-color: var(--secondary);
 }
 
-.donate{
+.donate {
   background-color: var(--primnary);
   text-transform: capitalize;
   color: white;
 }
 
-.heading{
+.heading {
   font-family: Empower Hope, Transform Lives;
 }
 
-footer{
+.footerListHeading {
+  font-family: Manuale;
+}
+
+footer {
   background-color: #399866;
 }
