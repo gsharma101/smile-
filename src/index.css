@@ -24,6 +24,14 @@ body {
   color: white;
 }
 
+.banner {
+  background-color: var(--primnary);
+}
+
+.color-yellow {
+  color: #fdc137;
+}
+
 .heading {
   font-family: Empower Hope, Transform Lives;
 }

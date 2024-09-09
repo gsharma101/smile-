@@ -1,6 +1,7 @@
-import Footer from "./Footer"
-
+import Footer from "./Footer";
+import Banner from "./Banner";
 
 export {
-    Footer
+    Footer,
+    Banner
 }
