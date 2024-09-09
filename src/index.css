@@ -1,0 +1,29 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --primnary: #399866;
+  --secondary: #f8f6e4
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  scroll-behavior: smooth;
+}
+
+body {
+  background-color: var(--secondary);
+}
+
+.donate{
+  background-color: var(--primnary);
+  text-transform: capitalize;
+  color: white;
+}
+
+.heading{
+  font-family: Empower Hope, Transform Lives;
+}
