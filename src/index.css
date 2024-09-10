@@ -28,6 +28,10 @@ body {
   background-color: var(--primnary);
 }
 
+.colorgrey{
+  color: #5F5F5F;
+}
+
 .color-yellow {
   color: #fdc137;
 }

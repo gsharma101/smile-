@@ -1,14 +1,14 @@
-import { NavBar, Actions, Header, Causes } from "./components";
-import { Footer, Banner } from "./containers";
+import { NavBar, Actions, Header } from "./components";
+import { Footer, Banner, Causes } from "./containers";
 
 function App() {
   return (
     <div className="px-14">
       <NavBar />
       <Header />
-      <Banner/>
-      <Actions />
+      <Banner />
       <Causes />
+      <Actions />
       <Footer />
     </div>
   );
